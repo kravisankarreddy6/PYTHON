@@ -1,4 +1,4 @@
-a=input("enter string")
+a=input("enter the string")
 res=""
 for i in a:
     if i.isalpha():
